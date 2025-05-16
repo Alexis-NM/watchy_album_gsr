@@ -1,4 +1,4 @@
-# Album Cover Watchface for Watchy (GSR OS)
+# Album Cover Watchface for Watchy GSR
 
 This repository contains a custom watchface for the Watchy running GSR that displays album cover artwork in BMP format. Users can add their favorite album covers to the watchface by including the corresponding BMP images in the `images.h` file.
 
